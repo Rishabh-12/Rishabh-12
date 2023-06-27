@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishabh-12
+- 👋 Hi, I’m @corrupted_code
 - 👀 I’m interested in new software
-- 🌱 I’m currently learning animation
+- 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me rsrishabhvs9@gmail.com
 
