@@ -12,7 +12,7 @@ PixelBrick_Adventures: My first self made game made with the help of unity.
 
 Ambulance_supporter: This is school project that I have developed an emergency services app facilitating real-time communication with traffic systems to alleviate congestion. The app enables sending messages to update traffic conditions and includes a feature to convey patient status, enhancing response coordination and efficiency during emergencies.
 
-Unit-coverter-app:- This app was created by me as an introductory project to explore the functionality of Android Studio. Designed to convert kilograms to pounds accurately.
+Unit-converter-app:- This app was created by me as an introductory project to explore the functionality of Android Studio. Designed to convert kilograms to pounds accurately.
 
 Ping-Pong-Game:- Fun web game that allows players to enjoy a classic game of ping pong right in their browser.
 
