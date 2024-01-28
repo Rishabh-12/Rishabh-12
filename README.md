@@ -8,7 +8,7 @@ Web Development (Between Beginner and Intermediate): While still honing my skill
 Graphic Design and Video Editing (Intermediate): I have a knack for visual storytelling and have been exploring graphic design and video editing. I love experimenting with Adobe after effects and other tools to create engaging content.
 
 🚀 Projects:
-PixelBrick_Adventures: My first self made game made with the help of unity.
+PixelBrick_Adventures: My first self made computer game made with the help of unity.
 
 Ambulance_supporter: This is school project that I have developed an emergency services app facilitating real-time communication with traffic systems to alleviate congestion. The app enables sending messages to update traffic conditions and includes a feature to convey patient status, enhancing response coordination and efficiency during emergencies.
 
