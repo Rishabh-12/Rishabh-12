@@ -23,7 +23,7 @@ I'm constantly seeking inspiration from the world around me and learning from on
 I'm excited to continue my journey in software development and digital media, exploring new technologies, and contributing to meaningful projects that make a positive impact.
 
 💬 Let's Connect:
-I'm always eager to connect with fellow developers, creatives, and enthusiasts! Feel free to reach out to me on email rsrishabhvs9@gmail.com.
+I'm always eager to connect with fellow developers, creatives, and enthusiasts! Feel free to reach out to me on email rishabhsinghbhadaureya@gmail.com.
 
 <!---
 Rishabh-12/Rishabh-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
