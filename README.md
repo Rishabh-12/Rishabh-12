@@ -24,7 +24,7 @@ A 16-year-old aspiring developer and creative enthusiast. Passionate about techn
 
 **Unit-converter-app:-** This app was created by me as an introductory project to explore the functionality of Android Studio. Designed to convert kilograms to pounds accurately.
 
-**Ping-Pong-Game:-** Fun web game that allows players to enjoy a classic game of ping pong right in their browser.
+**Face-recognizer-:-** Developed collaboratively with a friend, this recognizer captures facial expressions, particularly exasperation.
 
 **🎨 Inspiration and Learning:**
 I draw inspiration from the innovative methods of problem-solving in Japanese technology. Constantly seeking to learn from online resources, tutorials, and community forums, each project I undertake is a step towards making the world a better place for everyone.
