@@ -34,6 +34,7 @@ I'm excited to continue my journey in software development and digital media, ex
 
 🎌 Passionate about Going to Japan: I'm eager to study tech in Japan to further upskill my abilities and explore new opportunities for growth.
 
+
 **💬 Let's Connect:**
 I'm always eager to connect with fellow developers, creatives, and enthusiasts! Feel free to reach out to me on email rishabhsinghbhadaureya@gmail.com.
 
