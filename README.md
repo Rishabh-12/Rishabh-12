@@ -5,10 +5,15 @@ A 16-year-old aspiring developer and creative enthusiast. Passionate about techn
 **🌟 Skills:**
 
 **App Making (Beginner):** Delving into the world of app development using tools like Android Studio.
+
 **Python (Intermediate):**  Currently learning for problem-solving and automation. Built projects from web scraping to data analysis.
+
 **Web Development (Between Beginner and Intermediate):** Experimenting with HTML, CSS, and JavaScript to bring my ideas to life.
+
 **Graphic Design and Video Editing (Intermediate):** Visual storytelling through Adobe After Effects and other tools.
+
 **Unity Game Engine (Intermediate):** Crafting immersive experiences and adventures.
+
 **Blender (Beginner):** Exploring 3D modeling.
 
 **🚀 Projects:**
