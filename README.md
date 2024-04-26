@@ -20,7 +20,7 @@ A 16-year-old aspiring developer and creative enthusiast. Passionate about techn
 
 **LEGOTHON:** My first self made computer game made with the help of unity. Based on Lego theme have 2 simple levels.
   
-**Ambulance_supporter:** This is school project that I have developed an emergency services app facilitating real-time communication with traffic systems to alleviate congestion. The app enables sending messages to update traffic conditions and includes a feature to convey patient status, enhancing response coordination and efficiency during emergencies.
+**Emergency-services:** This is school project that I have developed an emergency services app facilitating real-time communication with traffic systems to alleviate congestion. The app enables sending messages to update traffic conditions and includes a feature to convey patient status, enhancing response coordination and efficiency during emergencies.
 
 **Unit-converter-app:-** This app was created by me as an introductory project to explore the functionality of Android Studio. Designed to convert kilograms to pounds accurately.
 
